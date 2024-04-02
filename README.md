@@ -1,4 +1,11 @@
-# EPL 2020-21 Season Data Analysis 📊⚽
+# EPL 2020-21 SEASON DATA ANALYSIS 📊⚽
+
+##
+![Image 1](https://github.com/Siddhartha19Sinha/EPL-2020-21-EDA/blob/main/Image1.jpg)
+![Image 2](https://github.com/Siddhartha19Sinha/EPL-2020-21-EDA/blob/main/Image2.jpg)
+![Image 3](https://github.com/Siddhartha19Sinha/EPL-2020-21-EDA/blob/main/Image3.jpg)
+
+---
 
 Welcome to the EPL 2020-21 Season Data Analysis project! In this project, I performed an exploratory data analysis (EDA) on the English Premier League (EPL) data for the 2020-21 season. We delve into various aspects of player performance, team statistics, and more to gain insights into the season.
 
