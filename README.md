@@ -17,16 +17,16 @@ Welcome to the EPL 2020-21 Season Data Analysis project! In this project, I perf
 
 ## 📂 Project Structure
 - **EPL_20_21 Dataset.csv**: The dataset containing player statistics for the EPL 2020-21 season.
-- **epl_2020_21_analysis.ipynb**: Jupyter Notebook containing the Python code for data analysis and visualization.
+- **EPL_20_21 Project.ipynb**: Jupyter Notebook containing the Python code for data analysis and visualization.
 - **README.md**: Overview of the project.
 
 ## 🚀 Getting Started
 1. Clone the repository:
-git clone https://github.com/Siddhartha19Sinha/EPL_2020_21_Data_Analysis.git
+https://github.com/Siddhartha19Sinha/EPL-2020-21-EDA.git
 
 markdown
 Copy code
-2. Open and run the `epl_2020_21_analysis.ipynb` notebook in Jupyter Notebook or Google Colab.
+2. Open and run the `EPL_20_21 Project.ipynb` notebook in Jupyter Notebook or Google Colab.
 
 ## 📊 Analysis Highlights
 - Basic data exploration: Importing data, checking summary statistics, and identifying missing values.
